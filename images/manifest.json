@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://sourslaw.github.io/content_warning_generic/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in sourslaw/content_warning_generic project"
+        ]
+    },
+    "items": []
+}
